@@ -1,0 +1,23 @@
+[01-Jun-2023 18:56:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 366
+[01-Jun-2023 18:56:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 366
+[01-Jun-2023 18:56:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 366
+[01-Jun-2023 18:56:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 366
+[02-Jun-2023 11:07:37 UTC] PHP Notice:  Undefined index: submit in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 301
+[02-Jun-2023 11:07:37 UTC] PHP Notice:  Undefined index: imgsrc in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 353
+[02-Jun-2023 11:07:58 UTC] PHP Warning:  move_uploaded_file(./gallary-img/bg13.png): failed to open stream: Permission denied in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 312
+[02-Jun-2023 11:07:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgvBCWx' to './gallary-img/bg13.png' in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 312
+[02-Jun-2023 11:07:58 UTC] PHP Notice:  Undefined index: imgsrc in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 353
+[02-Jun-2023 11:08:01 UTC] PHP Notice:  Undefined index: submit in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 301
+[02-Jun-2023 11:08:01 UTC] PHP Notice:  Undefined index: imgsrc in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 353
+[02-Jun-2023 11:09:19 UTC] PHP Notice:  Undefined index: submit in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 301
+[02-Jun-2023 11:09:19 UTC] PHP Notice:  Undefined index: imgsrc in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 353
+[02-Jun-2023 11:09:24 UTC] PHP Notice:  Undefined index: submit in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 301
+[02-Jun-2023 11:09:24 UTC] PHP Notice:  Undefined index: imgsrc in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 353
+[02-Jun-2023 11:13:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 385
+[02-Jun-2023 11:13:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 385
+[02-Jun-2023 11:13:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 385
+[02-Jun-2023 11:13:36 UTC] PHP Notice:  Undefined index: submit in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 301
+[02-Jun-2023 11:13:36 UTC] PHP Notice:  Undefined index: imgsrc in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 353
+[02-Jun-2023 11:14:15 UTC] PHP Notice:  Undefined index: submit in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 301
+[02-Jun-2023 11:35:32 UTC] PHP Notice:  Undefined index: submit in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 301
+[02-Jun-2023 11:35:59 UTC] PHP Notice:  Undefined index: submit in /home/ideasmas/public_html/symodanceclasses.ideasmasher.in/admin/gallary.php on line 301
